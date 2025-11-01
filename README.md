@@ -35,4 +35,4 @@ All actions are managed within a single class using **encapsulation and methods*
 2. Save the file as `bank.py`.  
 3. Open terminal or command prompt and run:
    ```bash
-   python bank.py```
+   python bank.py
